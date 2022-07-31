@@ -2,6 +2,7 @@
 //              1 2 1
 //            1 2 4 2 1
 //          1 2 4 8 4 2 1
+// til 8 raws:
 // 21ce084
 // kalp pandya
 import java.util.Scanner;
